@@ -1,0 +1,136 @@
+
+body{
+background: url(/Imagenes/fondo.png) ;
+height: 200px;
+background-size: cover;
+background-position-x: center center fixed;
+background-repeat: no-repeat;
+min-height: 100vh;
+background-attachment: fixed;
+}
+
+.wrap{
+    
+    height: 300px;
+    background: url(/Imagenes/Pie.png);
+    background-size: cover;
+    background-position-x: center;
+    background-attachment:scroll;
+}
+
+.wrap-texto{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-position-x: center;
+    padding: 140px;
+    text-shadow: 0px 0px 9px rgb(23, 48, 192);
+   background-color: rgba(0, 255, 255, 0);
+}
+
+
+
+.nav-link{
+    color: rgb(19, 10, 1);
+}
+.nav-link:hover{
+    color: rgb(10, 105, 46);
+}
+
+.boton1 {
+border-color: rgb(19, 10, 1);
+color: rgb(19, 10, 1);
+}
+
+.boton1:hover{
+    background-color: rgb(10, 105, 46);
+}  
+
+
+.card-2-img{
+    background-position: center;
+   
+}
+
+.card-title{
+    color: rgb(10, 105, 46);
+}
+
+.card-texto{
+    color: rgb(19, 10, 1);
+}
+
+.card-link{
+    color: rgb(10, 105, 46);
+}
+
+.card-link:hover{
+    color:rgb(1, 14, 6);
+}
+
+
+
+
+
+
+h3{
+text-align: center;
+color:rgb(19, 10, 1) ;
+}
+
+.registro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card-link3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(19, 10, 1);
+}
+
+.card-link3:hover{
+    color:rgb(10, 105, 46);
+}
+
+.form-label{
+    color:rgb(19, 10, 1) ;
+}
+
+.form-check-input:hover{
+    color:rgb(255, 255, 255);
+    background-color: rgb(10, 105, 46);
+}
+
+
+.form-check-label{
+    color: rgb(19, 10, 1);
+    
+}
+.botonR{
+    border-color: rgb(19, 10, 1);
+    color: rgb(19, 10, 1);
+}
+
+.botonR:hover{
+   
+    color:rgb(255, 255, 255);
+    background-color: rgb(10, 105, 46);
+}
+
+.card-link2{
+    color: blanchedalmond;
+}
+
+.card-link2:hover{
+    color: rgb(150, 150, 150);
+
+}
+
+.page-link{
+
+    color:rgb(255, 255, 255);
+    background-color: rgb(10, 105, 46);;
+}
